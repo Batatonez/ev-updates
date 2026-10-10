@@ -1,10 +1,8 @@
 {
   "comment": "Arquivo público do E.V.: resumos (scrypt) das chaves válidas e versão mínima exigida. Gerado pelo gerenciador. Não tem códigos em texto.",
-  "version": "1.9.3",
+  "version": "1.10.4",
   "min_version": "0.0.0",
-  "hashes": [
-    "1107fdd6a28810557b41b1302b97626c553b699b47588469a710038fa1c6df85"
-  ],
+  "hashes": [],
   "download": "https://github.com/Batatonez/ev-updates/releases/latest",
-  "updated": "2026-10-09 01:54 UTC"
+  "updated": "2026-10-10 18:17 UTC"
 }
